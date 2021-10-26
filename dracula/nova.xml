@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="dock_width_margin">NONE</string>
+<boolean name="drawer_swipe_from_dock" value="true" />
+<int name="dock_alpha" value="255" />
+<boolean name="show_notification_bar" value="true" />
+<string name="system_build_prop_md5">dcae8b9ce6ddc9be239099f8d3b371d9</string>
+<boolean name="navigation_bar_transparency" value="true" />
+<boolean name="dock_show_shadow" value="true" />
+<int name="dock_grid_cols" value="5" />
+<int name="desktop_scroll_indicator_color" value="-4353031" />
+<string name="desktop_searchbar_style">{false:true:#ffbd93f9:1.0}:true:{{APP_SEARCH:{favicon://}}}:{}</string>
+<string name="drawer_searchbar_position">BOTTOM</string>
+<string name="popup_menu_item_visibility">{false:true}:{false:false}:{false:true}:{false:false}:{false:false}:{false:true}</string>
+<boolean name="did_quickstart" value="true" />
+<string name="drawer_searchbar_style">{false:true:#ffbd93f9:1.0}:true:{{APP_SEARCH:{favicon://}}}:{}</string>
+<string name="long_menu_intent">Search$#Intent;action=com.teslacoilsw.launcher.ACTION;launchFlags=0x10000000;component=com.teslacoilsw.launcher/.NovaShortcutHandler;S.LAUNCHER_ACTION=TEXT_SEARCH;end</string>
+<string name="adaptive_icon_reshape">ON</string>
+<string name="google_now_transition">PAGE</string>
+<string name="desktop_scroll_indicator">DOT</string>
+<boolean name="popup_menu_include_notifications" value="true" />
+<int name="system_dpi" value="440" />
+<int name="appsearch_background" value="-12302502" />
+<string name="home_button_intent">Nova Search$#Intent;action=com.teslacoilsw.launcher.ACTION;launchFlags=0x10000000;component=com.teslacoilsw.launcher/.NovaShortcutHandler;S.LAUNCHER_ACTION=APP_SEARCH;end</string>
+<int name="drawer_background_color" value="-12302502" />
+<string name="notification_bar_hide_clock">DISABLED</string>
+<int name="first_install_version" value="70049" />
+<int name="drawer_app_grid_rows" value="5" />
+<string name="unread_count_badge_style">#ffbd93f9:#ffbd93f9:#ffffffff:12:5</string>
+<string name="gesture_two_finger_scroll_down">Wi‑Fi$#Intent;action=android.intent.action.MAIN;category=com.android.launcher3.DEEP_SHORTCUT;launchFlags=0x10200000;package=com.android.settings;component=com.android.settings/.Settings;S.shortcut_id=component-shortcut-com.android.settings%2F.Settings%24WifiSettings2Activity;end</string>
+<string name="dock_cellspecs">1.1:false:13.0:#40302:true:sans-serif-condensed:true:true</string>
+<string name="screen_off_mode">ROOT</string>
+<string name="gesture_swipe_up">App drawer$#Intent;action=com.teslacoilsw.launcher.ACTION;launchFlags=0x10000000;component=com.teslacoilsw.launcher/.NovaShortcutHandler;S.LAUNCHER_ACTION=APP_DRAWER;end</string>
+<boolean name="night_mode_auto_searchbar" value="false" />
+<string name="gesture_pinch_out">Recent apps$#Intent;action=com.teslacoilsw.launcher.ACTION;launchFlags=0x10000000;component=com.teslacoilsw.launcher/.NovaShortcutHandler;S.LAUNCHER_ACTION=SHOW_RECENT_APPS;end</string>
+<string name="gesture_double_tap">Screen lock$#Intent;action=com.teslacoilsw.launcher.ACTION;launchFlags=0x10000000;component=com.teslacoilsw.launcher/.NovaShortcutHandler;S.LAUNCHER_ACTION=SCREEN_OFF;end</string>
+<long name="0" value="1635223044897" />
+<string name="desktop_cellspecs">1.1:true:12.0:#fff1fa8c:true:sans-serif-light:false:false</string>
+<int name="workspace_screen_count" value="1" />
+<boolean name="icon_theme_masking" value="true" />
+<boolean name="icon_normalization" value="true" />
+<string name="gesture_two_finger_scroll_up">Nova Settings$#Intent;action=android.intent.action.MAIN;launchFlags=0x30008000;component=com.teslacoilsw.launcher/.preferences.SettingsActivity;end</string>
+<int name="dock_color" value="-12302502" />
+<int name="drawer_app_grid_cols" value="5" />
+<string name="drawer_tabbar_position">NONE</string>
+<string name="drawer_cellspecs">1.1:true:13.0:#ffffffff:true:sans-serif-condensed:false:true</string>
+<string name="weather_units">FAHRENHEIT</string>
+<boolean name="night_mode_auto_drawer" value="false" />
+<string name="notification_bar_dark_icons">AUTO</string>
+<int name="desktop_grid_cols" value="5" />
+<int name="drawer_fastscroll_color" value="-4353031" />
+<boolean name="night_mode_auto_search_window" value="false" />
+<string name="gesture_swipe_down">Expand notifications$#Intent;action=com.teslacoilsw.launcher.ACTION;launchFlags=0x10000000;component=com.teslacoilsw.launcher/.NovaShortcutHandler;S.LAUNCHER_ACTION=EXPAND_STATUS_BAR;end</string>
+<boolean name="dock_enable" value="true" />
+<int name="drawer_app_grid_land_cols" value="5" />
+<string name="night_mode">ALWAYS</string>
+<boolean name="preset_dock_add_allapps" value="false" />
+<string name="drawer_animation">SLIDE</string>
+<string name="unread_count_provider">NUMERIC</string>
+<string name="drawer_search_providers">[[&quot;DDG&quot;]]</string>
+<boolean name="unread_count" value="true" />
+<boolean name="dock_styled" value="true" />
+<string name="screen_orientation">NOSENSOR</string>
+<boolean name="dock_overlay" value="true" />
+<string name="dock_shape">{{25:SQUIRCLE}:{25:SQUIRCLE}:{0:ROUND}:{0:ROUND}}:8</string>
+<int name="drawer_app_grid_land_rows" value="5" />
+<string name="appsearch_default_tab">NEW_UPDATED</string>
+<string name="searchbar_placement">DOCK_ABOVE_ICONS</string>
+<string name="theme_icon_pack">Charcoal Free:GO:com.arandompackage.flatconsblack:null</string>
+<string name="activity_animation">PSEUDO_PIE</string>
+<int name="night_mode_bg_color" value="-16777216" />
+<string name="drawer_scroll_effect">SIMPLE</string>
+<int name="drawer_search_window_radius" value="16" />
+<int name="preference_version" value="70049" />
+<boolean name="show_drop_targets" value="true" />
+<string name="wallpaper_scrolling">ON</string>
+<boolean name="appsearch_microresults" value="true" />
+<string name="folder_icon_config">{CIRCLE}:RADIAL_5:false:#ffbd93f9:255:false:false</string>
+<string name="desktop_width_margin">NONE</string>
+<string name="gesture_pinch">Desktop previews$#Intent;action=com.teslacoilsw.launcher.ACTION;launchFlags=0x10000000;component=com.teslacoilsw.launcher/.NovaShortcutHandler;S.LAUNCHER_ACTION=SHOW_PREVIEWS;end</string>
+<string name="popup_menu_style_config">false:false:24:-1:262914</string>
+<string name="scroll_effect">IN_AND_OUT</string>
+<boolean name="desktop_lock" value="false" />
+<string name="folder_window_config">WINDOW:134:-10325340:24:true:false:3:4:HORIZONTAL:true</string>
+<int name="drawer_transparency" value="128" />
+<boolean name="dock_background_draw_behind_navbar" value="true" />
+<boolean name="night_mode_auto_drawer_searchbar" value="false" />
+<string name="google_now_theme">FOLLOW_NIGHT_MODE</string>
+<string name="adaptive_icon_shape">SQUIRCLE</string>
+<boolean name="night_mode_auto_folder" value="false" />
+<boolean name="adaptive_icon_prefer_legacy" value="false" />
+<int name="desktop_grid_rows" value="5" />
+<boolean name="notification_bar_transparency" value="true" />
+</map>
