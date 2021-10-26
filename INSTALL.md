@@ -1,4 +1,4 @@
-### [X](http://link-to-x.com)
+### [Nova Launcher](https://novalauncher.com/)
 
 #### Install using Git
 
@@ -12,6 +12,9 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+Install [Charcoal Icon Pack](https://play.google.com/store/apps/details?id=com.arandompackage.flatconsblack&hl=en_US&gl=US)
+
+1. Goto Nova Settings -> Backup & Restore -> Restore backup  
+2. Navigate to scientiac_dracula.novabackup and select it.
+3. Now, set the given wallpaper to your home and lockscreen.
+4. Boom! It's working!
