@@ -16,7 +16,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 [![Scientiac](https://github.com/scientiac.png?size=100)](https://github.com/scientiac) |
 --- |
-[Scientiac](https://github.com/scientiac) |
+[Scientiac](https://github.com/scientiac/) |
 
 ## License
 
