@@ -35,17 +35,17 @@ First Install [Charcoal Icon Pack](https://play.google.com/store/apps/details?id
 ## Search Bar Style
 
 * Search bar style - Bar Color - Advanced
-* Set the hex code to #bd93f9
+* Set the hex code to `#bd93f9`
 
 ## Indicator Color
 
 * Indicator color - Advanced
-* Set the hex code to #bd93f9
+* Set the hex code to `#bd93f9`
 
 ## Dock (If enabled)
 
 * Dock - Dock Background - Advanced
-* Set the hex code to #44475a
+* Set the hex code to `#44475a`
 
 ***
 # App Drawer
@@ -53,12 +53,12 @@ First Install [Charcoal Icon Pack](https://play.google.com/store/apps/details?id
 ## Background Color
 
 * Background color - Advanced 
-* Set the hex code to #44475a
+* Set the hex code to `#44475a`
 
 ## Scroll accent color
 
 * Scroll  cccent color - Advanced
-* Set the hex code to #bd93f9
+* Set the hex code to `#bd93f9`
 
 ***
 # Folders
@@ -66,12 +66,12 @@ First Install [Charcoal Icon Pack](https://play.google.com/store/apps/details?id
 ## Window style
 
 * Window style - Background color - Advanced
-* Set the hex code to #6272a4
+* Set the hex code to `#6272a4`
 
 ## Folder Icon Appearance
 
 * Folder icon appearance - Color - Advanced
-* Set the hex code to #bd93f9
+* Set the hex code to `#bd93f9`
 
 ***
 # Search
@@ -79,14 +79,14 @@ First Install [Charcoal Icon Pack](https://play.google.com/store/apps/details?id
 ## Background Color
 
 * Background color - Advanced
-* Set the hex code to #bd93f9
+* Set the hex code to `#bd93f9`
 
 [Desktop search bar is already set.]
 
 ##  Drawer Search Bar
 
 * Drawer search bar - Bar color - Advanced 
-* Set the hex code to #bd93f9
+* Set the hex code to `#bd93f9`
 
 ***
 # Night Mode 
@@ -106,15 +106,15 @@ First Install [Charcoal Icon Pack](https://play.google.com/store/apps/details?id
 --
 
 * Colors - Border - Advanced
-* Set the hex code to #bd93f9
+* Set the hex code to `#bd93f9`
 --
 
 * Color - Border - Badge
-* Set the hex code to #bd93f9
+* Set the hex code to `#bd93f9`
 --
 
 * Color - Border - Text
-* Set the hex code to #ffffff
+* Set the hex code to `#ffffff`
 
 ***
 
