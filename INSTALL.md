@@ -103,14 +103,17 @@ First Install [Charcoal Icon Pack](https://play.google.com/store/apps/details?id
 
 * Choose Custom
 * Turn off ' match icon color '
+
 --
 
 * Colors - Border - Advanced
 * Set the hex code to `#bd93f9`
+
 --
 
 * Color - Border - Badge
 * Set the hex code to `#bd93f9`
+
 --
 
 * Color - Border - Text
