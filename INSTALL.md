@@ -21,6 +21,9 @@ First Install [Charcoal Icon Pack](https://play.google.com/store/apps/details?id
 3. Now, set the given wallpaper to your home and lockscreen.
 4. Boom! It's beeeeautiful!
 
+***
+***
+
 # Wanna Save your layout? DIY!
 
 ## Step by step instruction to change the color scheme of nova launcher to dracula.
