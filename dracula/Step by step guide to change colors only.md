@@ -75,14 +75,17 @@ Step by step instruction to change the color scheme of nova launcher to dracula.
 
 * Choose Custom
 * Turn off ' match icon color '
+
 --
 
 * Colors - Border - Advanced
 * Set the hex code to #bd93f9
+
 --
 
 * Color - Border - Badge
 * Set the hex code to #bd93f9
+
 --
 
 * Color - Border - Text
