@@ -2,7 +2,7 @@
 
 > A dark theme for [Nova Launcher](https://novalauncher.com/).
 > 
-![Screenshot_20211026-124514_Nova7](https://user-images.githubusercontent.com/58177655/138829346-4f50ef87-9ec9-4a0b-90ae-ddb9c3959a17.png)
+![Screenshot_20211026-151040_Nova7](https://user-images.githubusercontent.com/58177655/140929230-4cf29a86-41f4-4ecb-b8d6-33926321d59f.png)
 ![Screenshot_20211026-124532_Nova7](https://user-images.githubusercontent.com/58177655/138829356-a8bc5f31-6b27-4f7c-a452-fbef21c60b89.png)
 
 
