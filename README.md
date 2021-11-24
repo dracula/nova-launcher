@@ -2,17 +2,16 @@
 
 > A dark theme for [Nova Launcher](https://novalauncher.com/).
 > 
-![Screenshot_20211026-151040_Nova7](https://user-images.githubusercontent.com/58177655/140929230-4cf29a86-41f4-4ecb-b8d6-33926321d59f.png)
-![Screenshot_20211026-124532_Nova7](https://user-images.githubusercontent.com/58177655/138829356-a8bc5f31-6b27-4f7c-a452-fbef21c60b89.png)
-
+![Screenshot 1](./screenshot.png)
+![Screenshot 2](./screenshot-2.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/nova_launcher](https://draculatheme.com/nova_launcher).
+All instructions can be found at [draculatheme.com/nova-launcher](https://draculatheme.com/nova-launcher).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/nova-launcher/graphs/contributors).
 
 [![Scientiac](https://github.com/scientiac.png?size=100)](https://github.com/scientiac) |
 --- |

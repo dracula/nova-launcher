@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    git clone https://github.com/dracula/nova_launcher.git
+    git clone https://github.com/dracula/nova-launcher.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/nova_launcher/archive/refs/heads/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/nova-launcher/archive/refs/heads/master.zip) option and unzip them.
 
 #### Activating theme
 
@@ -21,112 +21,88 @@ First Install [Charcoal Icon Pack](https://play.google.com/store/apps/details?id
 3. Now, set the given wallpaper to your home and lockscreen.
 4. Boom! It's beeeeautiful!
 
-***
-***
+#### Wanna Save your layout? DIY!
 
-# Wanna Save your layout? DIY!
-
-## Step by step instruction to change the color scheme of nova launcher to dracula.
+Step by step instruction to change the color scheme of nova launcher to dracula.
 
 ***Your setup will be "kinda" incomplete without a perfect background and a icon pack with the same color scheme (Both of them are given. 😉)*** 
 
-# Home Screen
+#### Home Screen
 
-## Search Bar Style
+Search Bar Style
 
 * Search bar style - Bar Color - Advanced
 * Set the hex code to `#bd93f9`
 
-## Indicator Color
+Indicator Color
 
 * Indicator color - Advanced
 * Set the hex code to `#bd93f9`
 
-## Dock (If enabled)
+Dock (If enabled)
 
 * Dock - Dock Background - Advanced
 * Set the hex code to `#44475a`
 
-***
-# App Drawer
+#### App Drawer
 
-## Background Color
+Background Color
 
 * Background color - Advanced 
 * Set the hex code to `#44475a`
 
-## Scroll accent color
+Scroll accent color
 
 * Scroll  cccent color - Advanced
 * Set the hex code to `#bd93f9`
 
-***
-# Folders
+#### Folders
 
-## Window style
+Window style
 
 * Window style - Background color - Advanced
 * Set the hex code to `#6272a4`
 
-## Folder Icon Appearance
+Folder Icon Appearance
 
 * Folder icon appearance - Color - Advanced
 * Set the hex code to `#bd93f9`
 
-***
-# Search
+#### Search
 
-## Background Color
+Background Color
 
 * Background color - Advanced
 * Set the hex code to `#bd93f9`
 
 [Desktop search bar is already set.]
 
-##  Drawer Search Bar
+Drawer Search Bar
 
 * Drawer search bar - Bar color - Advanced 
 * Set the hex code to `#bd93f9`
 
-***
-# Night Mode 
+#### Night Mode 
 
 * Turn On Night Mode and unselect all the options on the ' use dark theme on ' section.
 
-***
-# Notification Badges
+#### Notification Badges
 
 * Notification badges - Choose a style
 * Choose ' Numeric Dots '
 
-## Presets
+Presets
 
 * Choose Custom
 * Turn off ' match icon color '
 
---
-
 * Colors - Border - Advanced
 * Set the hex code to `#bd93f9`
-
---
 
 * Color - Border - Badge
 * Set the hex code to `#bd93f9`
 
---
-
 * Color - Border - Text
 * Set the hex code to `#ffffff`
 
-***
-
 Congrats! You have changed your nova launcher's color scheme to 'Dracula'.
-
-
-
-
-
-
-
-
