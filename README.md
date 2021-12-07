@@ -2,7 +2,7 @@
 
 > A dark theme for [Nova Launcher](https://novalauncher.com/).
 > 
-![Screenshot 1](./screenshot.png)
+![Screenshot 1](./Screenshot.png)
 ![Screenshot 2](./screenshot-2.png)
 
 ## Install
